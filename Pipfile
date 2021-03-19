@@ -9,7 +9,7 @@ verify_ssl = true
 requests = "==2.22.0"
 certifi = "==2019.6.16"
 chardet = "==3.0.4"
-djangorestframework = "==3.10.0"
+djangorestframework = "==3.11.2"
 idna = "==2.8"
 pytz = "==2019.1"
 sqlparse = "==0.3.0"
